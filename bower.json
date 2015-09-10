@@ -1,0 +1,20 @@
+{
+  "name": "krypto-js",
+  "version": "0.0.6",
+  "homepage": "https://github.com/kryptnostic/krypto-js",
+  "authors": [
+    "Robin Zhang <robin@kryptnostic.com> Peng Hui How <peng@kryptnostic.com>"
+  ],
+  "description": "Kryptnostic javascript api",
+  "main": "KryptnosticClient.js",
+  "keywords": [
+    "homomorphic",
+    "cryptography"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:kryptnostic/krypto-js.git"
+  },
+  "license": "Apache-2.0",
+  "private"    : false
+}
