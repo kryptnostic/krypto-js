@@ -1,9 +1,11 @@
 {
   "name": "krypto-js",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "homepage": "https://github.com/kryptnostic/krypto-js",
   "authors": [
-    "Robin Zhang <robin@kryptnostic.com> Peng Hui How <peng@kryptnostic.com>"
+    "Robin Zhang <robin@kryptnostic.com>",
+    "Peng Hui How <peng@kryptnostic.com>",
+    "Hristo Oskov <hristo@kryptnostic.com>"
   ],
   "description": "Kryptnostic javascript api",
   "main": "KryptnosticClient.js",
