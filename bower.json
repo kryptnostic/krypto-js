@@ -1,6 +1,6 @@
 {
   "name": "krypto-js",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "homepage": "https://github.com/kryptnostic/krypto-js",
   "authors": [
     "Robin Zhang <robin@kryptnostic.com>",
@@ -18,5 +18,5 @@
     "url": "git://github.com:kryptnostic/krypto-js.git"
   },
   "license": "Apache-2.0",
-  "private"    : false
+  "private": false
 }
