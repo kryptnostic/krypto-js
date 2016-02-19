@@ -17,6 +17,6 @@
     "type": "git",
     "url": "git://github.com:kryptnostic/krypto-js.git"
   },
-  "license": "CC-NC-SA-4.0",
+  "license": "CC-BY-NC-SA-4.0",
   "private": false
 }

@@ -31,6 +31,6 @@
   "bugs": {
     "url": "https://github.com/kryptnostic/krypto-js/issues"
   },
-  "license": "CC-NC-SA-4.0",
+  "license": "CC-BY-NC-SA-4.0",
   "main": "krypto.js"
 }
