@@ -1,0 +1,36 @@
+{
+  "name": "krypto-js",
+  "version": "0.0.11",
+  "homepage": "https://github.com/kryptnostic/krypto-js",
+  "description": "JavaScript port of Krypto, Kryptnostic's C++ implementation of FHE.",
+  "author": {
+    "name": "Kryptnostic, Inc.",
+    "email": "info@kryptnostic.com",
+    "url": "https://www.kryptnostic.com"
+  },
+  "contributors": [
+    {
+      "name": "Hristo Oskov",
+      "email": "hristo@kryptnostic.com"
+    },
+    {
+      "name": "Matthew Tamayo-Rios",
+      "email": "matthew@kryptnostic.com"
+    },
+    {
+      "name": "Peng Hui How"
+    },
+    {
+      "name": "Robin Zhang"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kryptnostic/krypto-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kryptnostic/krypto-js/issues"
+  },
+  "license": "Apache-2.0",
+  "main": "krypto.js"
+}
