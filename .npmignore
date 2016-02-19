@@ -1,0 +1,5 @@
+# ignore everything...
+*
+
+# except for krypto.js
+!./krypto.js
