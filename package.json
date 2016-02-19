@@ -1,6 +1,6 @@
 {
   "name": "krypto-js",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "homepage": "https://github.com/kryptnostic/krypto-js",
   "description": "JavaScript port of Krypto, Kryptnostic's C++ implementation of FHE.",
   "author": {
